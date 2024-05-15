@@ -8,6 +8,6 @@ console.log(x.startsWith("Emam"));
 
 console.log(x.endsWith("Bokhari"));
 
-console.log(x.includes("E"))
+console.log(x.includes("E"));
 
-console.log(x.toLowerCase().includes("e"))
+console.log(x.toLowerCase().includes("e"));
