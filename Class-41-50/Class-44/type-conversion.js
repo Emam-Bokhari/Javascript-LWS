@@ -27,3 +27,11 @@ console.log(a.toString());
 const b=294.3245;
 console.log(b.toFixed(1));
 
+// converting date to string
+const date=new Date();
+
+console.log(date.toString());
+
+console.log(String(date));
+
+console.log(date.getDay());
